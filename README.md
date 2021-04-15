@@ -19,25 +19,25 @@
 ## Install
 
 ```sh
-yarn install
+npm install
 ```
 
 ## Build command
 
 ```sh
-yarn build
+npm run build
 ```
 
 ## Watch mode
 
 ```sh
-yarn dev
+npm run dev
 ```
 
 ## Run tests
 
 ```sh
-yarn run test
+npm run test
 ```
 
 ---
